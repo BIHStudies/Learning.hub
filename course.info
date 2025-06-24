@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Course Info & Registration | BIHS</title>
+</head>
+<body>
+  <header>
+    <h1>Bhaktivedanta Institute for Higher Studies</h1>
+    <h2>Course Info & Registration</h2>
+  </header>
+
+  <main>
+    <section>
+      <p>Thank you for your interest in our free learning offerings. Below, you'll find descriptions of our current courses and lecture series. After reading, you can choose to register and receive Canvas access.</p>
+    </section>
+
+    <section>
+      <h3>📘 1. Srimad Bhagavatam Series with Bhakti Vijnana Goswami</h3>
+      <p>An in-depth conceptual exploration of Srimad Bhagavatam with weekly video lectures, assignments, and Q&A sessions. All materials are hosted in Canvas.</p>
+      <a href="https://canvas.instructure.com/register" target="_blank">Register for Canvas & Join with Code: CR4PDK</a>
+    </section>
+
+    <section>
+      <h3>🌐 2. Summer Discovery Series</h3>
+      <p>Three weekends of inspiring talks and interactive sessions with scholars from around the world. You’ll access the Zoom links, recordings, and materials through Canvas.</p>
+      <a href="https://canvas.instructure.com/register" target="_blank">Register for Canvas & Join with Code: DISCOVERY25</a>
+    </section>
+
+    <section>
+      <p>If you already have a Canvas account, you will receive an invitation by email to join each course. Check your spam folder if needed. If you face issues, contact us at <strong>info@bihstudies.org</strong>.</p>
+    </section>
+
+    <nav>
+      <a href="index.html">← Back to Course Overview</a>
+    </nav>
+  </main>
+
+  <footer>
+    <p>© 2025 Bhaktivedanta Institute for Higher Studies. All rights reserved.</p>
+  </footer>
+</body>
+</html>
