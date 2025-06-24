@@ -1,0 +1,78 @@
+<!-- index.html (Landing page) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BIHS Course Portal</title>
+</head>
+<body>
+  <h1>Welcome to the Bhaktivedanta Institute for Higher Studies</h1>
+  <p>Explore our current offerings in science, philosophy, and devotion.</p>
+
+  <h2>Available Courses</h2>
+
+  <ul>
+    <li>
+      <h3>Srimad Bhagavatam Course with Bhakti Vijñāna Goswami</h3>
+      <a href="course-bhagavatam.html">Learn More & Join</a>
+    </li>
+    <li>
+      <h3>Summer Discovery Series</h3>
+      <a href="course-summer-series.html">Learn More & Join</a>
+    </li>
+  </ul>
+</body>
+</html>
+
+
+<!-- course-bhagavatam.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Srimad Bhagavatam Course</title>
+</head>
+<body>
+  <h1>Srimad Bhagavatam Series with Bhakti Vijñāna Goswami</h1>
+  <p>This course offers a systematic conceptual study of the Srimad Bhagavatam through the lens of devotional commitment and rigorous philosophical inquiry.</p>
+  <p>All sessions are hosted on Canvas and recorded for your convenience. Please join using the link below.</p>
+
+  <h3>Join the Course:</h3>
+  <p><strong>⚠️ Important:</strong> Please do not sign up with Google, Gmail, or Facebook — this often causes login issues.</p>
+  <p>Follow this link to register and use the code: <strong>CR4PDK</strong></p>
+  <a href="https://canvas.instructure.com/register" target="_blank">Join on Canvas</a>
+</body>
+</html>
+
+
+<!-- course-summer-series.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Summer Discovery Series</title>
+</head>
+<body>
+  <h1>BIHS Summer Discovery Series</h1>
+  <p>Join over a dozen international scholars exploring consciousness, ethics, cosmology, and more — in a space where devotion meets discovery.</p>
+
+  <h3>How It Works:</h3>
+  <p>The series is hosted via Zoom, but all links, recordings, and updates are managed through Canvas Instructure. This gives participants a single, clean place to stay engaged.</p>
+
+  <h3>Already on Canvas?</h3>
+  <p>If you're already taking another BIHS course, simply <strong>check your inbox</strong> for an invite to this series. If you're logged in, <a href="https://canvas.instructure.com">click here</a> to accept directly.</p>
+
+  <h3>New to Canvas?</h3>
+  <p><strong>⚠️ Important:</strong> Please do not sign up with Google, Gmail, or Facebook — this often causes login issues.</p>
+  <p>To register manually:</p>
+  <ol>
+    <li>Go to <a href="https://canvas.instructure.com/register" target="_blank">https://canvas.instructure.com/register</a></li>
+    <li>Select "I’m a Student"</li>
+    <li>Create your account with username and password</li>
+    <li>Use the join code: <strong>CR4PDK</strong></li>
+  </ol>
+</body>
+</html>
